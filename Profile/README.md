@@ -2,7 +2,7 @@
   <img src="./DoonOps_DevOps_Solution.jpg" alt="DoonOps Banner" width="1000"/>
 </p>
 
-<h1 align="center">🚀 DoonOps</h1>
+<h1 align="center">🚀 DoonOps Inc.</h1>
 
 <p align="center">
   <em>Engineering Cloud, AI, Data & Digital Platforms for the Modern Enterprise</em>
