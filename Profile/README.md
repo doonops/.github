@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" alt="DoonOps Banner" src="https://images.unsplash.com/photo-1667372393086-9c6b7f2f6b42?q=80&w=1600&auto=format&fit=crop" />
+  <img src="./DoonOps_DevOps_Solution.jpg" alt="DoonOps Banner" width="1000"/>
 </p>
 
 <h1 align="center">🚀 DoonOps</h1>
